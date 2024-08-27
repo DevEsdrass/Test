@@ -17,3 +17,4 @@ Ferramentas utilizadas
 
   Resultados 
 
+![Captura de tela 2024-08-27 162607](https://github.com/user-attachments/assets/40768d65-4bc4-4844-9941-dbfb4ed265c5)
